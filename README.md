@@ -21,7 +21,7 @@
 
 ---
 
-> ### 🎫 [Ticket System](https://github.com/Piyushbijarania/Ticket-System) ![vibe coded](https://img.shields.io/badge/vibe-coded-%23ff69b4?style=flat-square)
+> ### 🎫 [Ticket System](https://github.com/Piyushbijarania/Ticket-System) 
 > **Tech:** React, Node.js, MongoDB, Socket.io  
 > **Impact:** Designed and implemented a robust ticketing system for real-time issue tracking and management. Enhanced team collaboration and customer support workflows.  
 > [![GitHub stars](https://img.shields.io/github/stars/Piyushbijarania/Ticket-System?style=social)](https://github.com/Piyushbijarania/Ticket-System)
